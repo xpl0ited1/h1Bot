@@ -1,1 +1,1 @@
-Hackerone Bot for automating reporting
+Hackerone Bot for fetching scoped urls 
